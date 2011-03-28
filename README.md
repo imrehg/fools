@@ -4,6 +4,7 @@ A git server with minimal system resource requirements, implemented in Forth.
 
 ### Inspirations & resources
 
+* ProGit - git internals: http://progit.org/book/ch9-0.html
 * Pure Python git implementation: https://github.com/jelmer/dulwich
 * Git server protocol: http://git-scm.com/gitserver.txt
 * Web server in Forth: http://www.jwdt.com/~paysan/httpd-en.html
